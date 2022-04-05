@@ -1,4 +1,5 @@
 # titanic_scala
-functional programming
-
-using scala and naive bayes on the titanic dataset
+***
+- Using Scala: only functional programming <br>
+- Naive Bayes
+- Titanic Dataset
